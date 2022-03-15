@@ -11,7 +11,7 @@ O bootcamp Philips Fullstack Developer é um programa gratuito para quem deseja 
 Obrigado **DIO** e **Philips** por esta oportunidade de poder participar deste projeto.
 
 ## Meu LinkedIn
-[Meu LinkedIn: Edinilson Pereira](https://www.example.com)
+[Meu LinkedIn: Edinilson Pereira](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact_info%3B6mmVqRqOSqmXLgK%2F08IWOg%3D%3D)
 
 ### Links Úteis
 [Sintaxe básica Markdown](https://www.markdownguide.org/getting-started/)
